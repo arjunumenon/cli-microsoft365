@@ -11,5 +11,7 @@ if ($versionsToDeprecate.Length -eq 0) {
 
 $versionsToDeprecate | ForEach-Object {
   Write-Host "Deprecating $_..."
-  npm deprecate "@pnp/cli-microsoft365@$_" "Preview version released" --otp=$otp
+
+  $PackageName = "@pnp/cli-microsoft365@$_"
+  npm deprecate $PackageName "Preview version released" --otp=$otp
 }
