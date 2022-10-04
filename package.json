@@ -203,7 +203,7 @@
     "@azure/msal-node": "^1.14.0",
     "@xmldom/xmldom": "^0.8.2",
     "adaptive-expressions": "^4.17.1",
-    "adaptivecards": "^2.10.0",
+    "adaptivecards": "^2.11.1",
     "adaptivecards-templating": "^2.2.0",
     "adm-zip": "^0.5.9",
     "applicationinsights": "^2.3.4",
