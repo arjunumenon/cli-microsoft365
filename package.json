@@ -256,7 +256,7 @@
     "@typescript-eslint/eslint-plugin": "^5.39.0",
     "@typescript-eslint/parser": "^5.39.0",
     "c8": "^7.12.0",
-    "eslint": "^8.24.0",
+    "eslint": "^8.27.0",
     "eslint-config-standard": "^17.0.0",
     "eslint-plugin-cli-microsoft365": "file:eslint-rules",
     "eslint-plugin-import": "^2.26.0",
