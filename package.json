@@ -272,7 +272,7 @@
     "eslint-plugin-promise": "^6.1.1",
     "mocha": "^10.2.0",
     "rimraf": "^3.0.2",
-    "sinon": "^15.0.1",
+    "sinon": "^15.0.3",
     "source-map-support": "^0.5.21"
   }
 }
