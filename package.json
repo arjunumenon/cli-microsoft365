@@ -263,7 +263,7 @@
     "@typescript-eslint/eslint-plugin": "^5.57.0",
     "@typescript-eslint/parser": "^5.57.0",
     "c8": "^7.13.0",
-    "eslint": "^8.35.0",
+    "eslint": "^8.37.0",
     "eslint-config-standard": "^17.0.0",
     "eslint-plugin-cli-microsoft365": "file:eslint-rules",
     "eslint-plugin-import": "^2.27.5",
