@@ -54,7 +54,7 @@
         "@types/semver": "^7.5.0",
         "@types/sinon": "^10.0.15",
         "@types/update-notifier": "^5.1.0",
-        "@types/uuid": "^9.0.1",
+        "@types/uuid": "^9.0.2",
         "@typescript-eslint/eslint-plugin": "^5.59.9",
         "@typescript-eslint/parser": "^5.59.9",
         "c8": "^7.14.0",
@@ -688,9 +688,9 @@
       }
     },
     "node_modules/@types/uuid": {
-      "version": "9.0.1",
-      "resolved": "https://registry.npmjs.org/@types/uuid/-/uuid-9.0.1.tgz",
-      "integrity": "sha512-rFT3ak0/2trgvp4yYZo5iKFEPsET7vKydKF+VRCxlQ9bpheehyAJH89dAkaLEq/j/RZXJIqcgsmPJKUP1Z28HA==",
+      "version": "9.0.2",
+      "resolved": "https://registry.npmjs.org/@types/uuid/-/uuid-9.0.2.tgz",
+      "integrity": "sha512-kNnC1GFBLuhImSnV7w4njQkUiJi0ZXUycu1rUaouPqiKlXkh77JKgdRnTAp1x5eBwcIwbtI+3otwzuIDEuDoxQ==",
       "dev": true
     },
     "node_modules/@types/xmldom": {
@@ -6412,9 +6412,9 @@
       }
     },
     "@types/uuid": {
-      "version": "9.0.1",
-      "resolved": "https://registry.npmjs.org/@types/uuid/-/uuid-9.0.1.tgz",
-      "integrity": "sha512-rFT3ak0/2trgvp4yYZo5iKFEPsET7vKydKF+VRCxlQ9bpheehyAJH89dAkaLEq/j/RZXJIqcgsmPJKUP1Z28HA==",
+      "version": "9.0.2",
+      "resolved": "https://registry.npmjs.org/@types/uuid/-/uuid-9.0.2.tgz",
+      "integrity": "sha512-kNnC1GFBLuhImSnV7w4njQkUiJi0ZXUycu1rUaouPqiKlXkh77JKgdRnTAp1x5eBwcIwbtI+3otwzuIDEuDoxQ==",
       "dev": true
     },
     "@types/xmldom": {
