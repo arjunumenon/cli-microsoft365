@@ -42,7 +42,7 @@
         "microsoft365": "dist/index.js"
       },
       "devDependencies": {
-        "@microsoft/microsoft-graph-types": "^2.33.0",
+        "@microsoft/microsoft-graph-types": "^2.35.0",
         "@types/adm-zip": "^0.5.0",
         "@types/inquirer": "^8.2.1",
         "@types/jmespath": "^0.15.0",
@@ -341,9 +341,9 @@
       "integrity": "sha512-2IHAOaLauc8qaAitvWS+U931T+ze+7MNWrDHY47IENP5y2UA0vqJDu67kWZDdpCN1fFC77sfgfB+HV7SrKshnQ=="
     },
     "node_modules/@microsoft/microsoft-graph-types": {
-      "version": "2.33.0",
-      "resolved": "https://registry.npmjs.org/@microsoft/microsoft-graph-types/-/microsoft-graph-types-2.33.0.tgz",
-      "integrity": "sha512-gl1HjBJAojfaDJPbd0r5k8mBdnEjG4D4m0BBy5VEdIBCinBshL4OYmlUeESxSc4Mb78meiQzqBY3V2xXkvm36A==",
+      "version": "2.35.0",
+      "resolved": "https://registry.npmjs.org/@microsoft/microsoft-graph-types/-/microsoft-graph-types-2.35.0.tgz",
+      "integrity": "sha512-3jCQyKaYbNuzVG884SNuWKS19FPUxBwHfDAb3DqZWBwPYcX3HbDe2D22z9Ue+UV+JGuw917cH75RTSgrdnutFg==",
       "dev": true
     },
     "node_modules/@microsoft/recognizers-text-data-types-timex-expression": {
@@ -6114,9 +6114,9 @@
       "integrity": "sha512-2IHAOaLauc8qaAitvWS+U931T+ze+7MNWrDHY47IENP5y2UA0vqJDu67kWZDdpCN1fFC77sfgfB+HV7SrKshnQ=="
     },
     "@microsoft/microsoft-graph-types": {
-      "version": "2.33.0",
-      "resolved": "https://registry.npmjs.org/@microsoft/microsoft-graph-types/-/microsoft-graph-types-2.33.0.tgz",
-      "integrity": "sha512-gl1HjBJAojfaDJPbd0r5k8mBdnEjG4D4m0BBy5VEdIBCinBshL4OYmlUeESxSc4Mb78meiQzqBY3V2xXkvm36A==",
+      "version": "2.35.0",
+      "resolved": "https://registry.npmjs.org/@microsoft/microsoft-graph-types/-/microsoft-graph-types-2.35.0.tgz",
+      "integrity": "sha512-3jCQyKaYbNuzVG884SNuWKS19FPUxBwHfDAb3DqZWBwPYcX3HbDe2D22z9Ue+UV+JGuw917cH75RTSgrdnutFg==",
       "dev": true
     },
     "@microsoft/recognizers-text-data-types-timex-expression": {
