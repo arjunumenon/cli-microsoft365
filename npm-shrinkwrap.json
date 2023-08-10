@@ -42,7 +42,7 @@
         "microsoft365": "dist/index.js"
       },
       "devDependencies": {
-        "@microsoft/microsoft-graph-types": "^2.35.0",
+        "@microsoft/microsoft-graph-types": "^2.38.0",
         "@types/adm-zip": "^0.5.0",
         "@types/inquirer": "^9.0.3",
         "@types/jmespath": "^0.15.0",
@@ -363,9 +363,9 @@
       "integrity": "sha512-2IHAOaLauc8qaAitvWS+U931T+ze+7MNWrDHY47IENP5y2UA0vqJDu67kWZDdpCN1fFC77sfgfB+HV7SrKshnQ=="
     },
     "node_modules/@microsoft/microsoft-graph-types": {
-      "version": "2.35.0",
-      "resolved": "https://registry.npmjs.org/@microsoft/microsoft-graph-types/-/microsoft-graph-types-2.35.0.tgz",
-      "integrity": "sha512-3jCQyKaYbNuzVG884SNuWKS19FPUxBwHfDAb3DqZWBwPYcX3HbDe2D22z9Ue+UV+JGuw917cH75RTSgrdnutFg==",
+      "version": "2.38.0",
+      "resolved": "https://registry.npmjs.org/@microsoft/microsoft-graph-types/-/microsoft-graph-types-2.38.0.tgz",
+      "integrity": "sha512-EXpTf/TFUb0EfBXiQ0rTmZf6fRgBn73lNfYdU2QKvqiMPQD/Cs2Gt+VmWVtK19F9Mf5Mt4bDTu5Ft0TGXOF8rA==",
       "dev": true
     },
     "node_modules/@microsoft/recognizers-text-data-types-timex-expression": {
