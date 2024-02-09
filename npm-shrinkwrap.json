@@ -20,7 +20,7 @@
         "adaptivecards-templating": "^2.3.1",
         "adm-zip": "^0.5.10",
         "applicationinsights": "^2.9.2",
-        "axios": "^1.6.3",
+        "axios": "^1.6.7",
         "chalk": "^5.3.0",
         "clipboardy": "^4.0.0",
         "configstore": "^6.0.0",
@@ -1503,9 +1503,9 @@
       "integrity": "sha512-LEeSAWeh2Gfa2FtlQE1shxQ8zi5F9GHarrGKz08TMdODD5T4eH6BMsvtnhbWZ+XQn+Gb6om/917ucvRu7l7ukw=="
     },
     "node_modules/axios": {
-      "version": "1.6.4",
-      "resolved": "https://registry.npmjs.org/axios/-/axios-1.6.4.tgz",
-      "integrity": "sha512-heJnIs6N4aa1eSthhN9M5ioILu8Wi8vmQW9iHQ9NUvfkJb0lEEDUiIdQNAuBtfUt3FxReaKdpQA5DbmMOqzF/A==",
+      "version": "1.6.7",
+      "resolved": "https://registry.npmjs.org/axios/-/axios-1.6.7.tgz",
+      "integrity": "sha512-/hDJGff6/c7u0hDkvkGxR/oy6CbCs8ziCsC7SqmhjfozqiJGc8Z11wrv9z9lYfY4K8l+H9TpjcMDX0xOZmx+RA==",
       "dependencies": {
         "follow-redirects": "^1.15.4",
         "form-data": "^4.0.0",
