@@ -289,7 +289,7 @@
     "@types/semver": "^7.5.6",
     "@types/sinon": "^17.0.3",
     "@types/update-notifier": "^6.0.8",
-    "@types/uuid": "^9.0.7",
+    "@types/uuid": "^9.0.8",
     "@typescript-eslint/eslint-plugin": "^6.16.0",
     "@typescript-eslint/parser": "^6.16.0",
     "c8": "^8.0.1",
