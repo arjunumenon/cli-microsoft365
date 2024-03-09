@@ -271,7 +271,7 @@
     "ora": "^8.0.1",
     "semver": "^7.6.0",
     "strip-json-comments": "^5.0.1",
-    "typescript": "^5.3.3",
+    "typescript": "^5.4.2",
     "update-notifier": "^7.0.0",
     "uuid": "^9.0.1",
     "yaml": "^2.3.4"
