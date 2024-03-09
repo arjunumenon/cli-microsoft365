@@ -296,7 +296,7 @@
     "c8": "^8.0.1",
     "eslint": "^8.57.0",
     "eslint-plugin-cli-microsoft365": "file:eslint-rules",
-    "eslint-plugin-mocha": "^10.4.0",
+    "eslint-plugin-mocha": "^10.4.1",
     "mocha": "^10.3.0",
     "rimraf": "^5.0.5",
     "sinon": "^17.0.0",
