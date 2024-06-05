@@ -259,7 +259,7 @@
     "adaptive-expressions": "^4.22.2",
     "adaptivecards": "^3.0.4",
     "adaptivecards-templating": "^2.3.1",
-    "adm-zip": "^0.5.12",
+    "adm-zip": "^0.5.14",
     "applicationinsights": "^2.9.5",
     "axios": "^1.6.8",
     "chalk": "^5.3.0",
