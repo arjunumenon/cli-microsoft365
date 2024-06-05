@@ -261,7 +261,7 @@
     "adaptivecards-templating": "^2.3.1",
     "adm-zip": "^0.5.14",
     "applicationinsights": "^2.9.5",
-    "axios": "^1.6.8",
+    "axios": "^1.7.2",
     "chalk": "^5.3.0",
     "clipboardy": "^4.0.0",
     "configstore": "^6.0.0",
