@@ -254,7 +254,7 @@
     "@azure/msal-node": "^2.9.1",
     "@inquirer/confirm": "^3.1.9",
     "@inquirer/input": "^2.1.9",
-    "@inquirer/select": "^2.3.2",
+    "@inquirer/select": "^2.3.5",
     "@xmldom/xmldom": "^0.8.10",
     "adaptive-expressions": "^4.22.2",
     "adaptivecards": "^3.0.3",
