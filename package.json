@@ -250,7 +250,7 @@
     "Zachariassen Laksafoss, Trygvi <trygvi.laksafoss@gmail.com>"
   ],
   "dependencies": {
-    "@azure/msal-common": "^14.10.0",
+    "@azure/msal-common": "^14.11.0",
     "@azure/msal-node": "^2.7.0",
     "@inquirer/confirm": "^3.1.6",
     "@inquirer/input": "^2.1.6",
