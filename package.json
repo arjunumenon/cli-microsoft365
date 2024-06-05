@@ -303,7 +303,7 @@
     "eslint-plugin-cli-microsoft365": "file:eslint-rules",
     "eslint-plugin-mocha": "^10.4.3",
     "mocha": "^10.4.0",
-    "rimraf": "^5.0.5",
+    "rimraf": "^5.0.7",
     "sinon": "^17.0.2",
     "source-map-support": "^0.5.21"
   }
