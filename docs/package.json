@@ -33,7 +33,7 @@
   },
   "devDependencies": {
     "@docusaurus/module-type-aliases": "^3.4.0",
-    "@docusaurus/tsconfig": "^3.3.2",
+    "@docusaurus/tsconfig": "^3.4.0",
     "asciinema-player": "^3.7.1",
     "docusaurus-node-polyfills": "^1.0.0",
     "typescript": "^5.4.5"
