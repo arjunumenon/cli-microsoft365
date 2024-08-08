@@ -10,7 +10,7 @@
       "license": "MIT",
       "dependencies": {
         "@azure/msal-common": "^14.14.0",
-        "@azure/msal-node": "^2.10.0",
+        "@azure/msal-node": "^2.12.0",
         "@inquirer/confirm": "^3.1.12",
         "@inquirer/input": "^2.1.12",
         "@inquirer/select": "^2.3.8",
@@ -214,25 +214,16 @@
       }
     },
     "node_modules/@azure/msal-node": {
-      "version": "2.10.0",
-      "resolved": "https://registry.npmjs.org/@azure/msal-node/-/msal-node-2.10.0.tgz",
-      "integrity": "sha512-JxsSE0464a8IA/+q5EHKmchwNyUFJHtCH00tSXsLaOddwLjG6yVvTH6lGgPcWMhO7YWUXj/XVgVgeE9kZtsPUQ==",
-      "license": "MIT",
+      "version": "2.12.0",
+      "resolved": "https://registry.npmjs.org/@azure/msal-node/-/msal-node-2.12.0.tgz",
+      "integrity": "sha512-jmk5Im5KujRA2AcyCb0awA3buV8niSrwXZs+NBJWIvxOz76RvNlusGIqi43A0h45BPUy93Qb+CPdpJn82NFTIg==",
       "dependencies": {
-        "@azure/msal-common": "14.13.0",
+        "@azure/msal-common": "14.14.0",
         "jsonwebtoken": "^9.0.0",
         "uuid": "^8.3.0"
       },
       "engines": {
         "node": ">=16"
-      }
-    },
-    "node_modules/@azure/msal-node/node_modules/@azure/msal-common": {
-      "version": "14.13.0",
-      "resolved": "https://registry.npmjs.org/@azure/msal-common/-/msal-common-14.13.0.tgz",
-      "integrity": "sha512-b4M/tqRzJ4jGU91BiwCsLTqChveUEyFK3qY2wGfZ0zBswIBZjAxopx5CYt5wzZFKuN15HqRDYXQbztttuIC3nA==",
-      "engines": {
-        "node": ">=0.8.0"
       }
     },
     "node_modules/@azure/msal-node/node_modules/uuid": {
