@@ -12,7 +12,7 @@
         "@azure/msal-common": "^14.14.0",
         "@azure/msal-node": "^2.10.0",
         "@inquirer/confirm": "^3.1.22",
-        "@inquirer/input": "^2.1.12",
+        "@inquirer/input": "^2.2.9",
         "@inquirer/select": "^2.3.8",
         "@xmldom/xmldom": "^0.8.10",
         "adaptive-expressions": "^4.22.3",
@@ -431,13 +431,12 @@
       }
     },
     "node_modules/@inquirer/input": {
-      "version": "2.2.1",
-      "resolved": "https://registry.npmjs.org/@inquirer/input/-/input-2.2.1.tgz",
-      "integrity": "sha512-Yl1G6h7qWydzrJwqN777geeJVaAFL5Ly83aZlw4xHf8Z/BoTMfKRheyuMaQwOG7LQ4e5nQP7PxXdEg4SzQ+OKw==",
-      "license": "MIT",
+      "version": "2.2.9",
+      "resolved": "https://registry.npmjs.org/@inquirer/input/-/input-2.2.9.tgz",
+      "integrity": "sha512-7Z6N+uzkWM7+xsE+3rJdhdG/+mQgejOVqspoW+w0AbSZnL6nq5tGMEVASaYVWbkoSzecABWwmludO2evU3d31g==",
       "dependencies": {
-        "@inquirer/core": "^9.0.2",
-        "@inquirer/type": "^1.4.0"
+        "@inquirer/core": "^9.0.10",
+        "@inquirer/type": "^1.5.2"
       },
       "engines": {
         "node": ">=18"
