@@ -260,7 +260,7 @@
     "@azure/msal-node": "^3.7.0",
     "@inquirer/confirm": "^5.1.14",
     "@inquirer/input": "^4.2.1",
-    "@inquirer/select": "^4.2.4",
+    "@inquirer/select": "^4.3.1",
     "@xmldom/xmldom": "^0.9.8",
     "adaptive-expressions": "^4.23.2",
     "adaptivecards": "^3.0.5",
