@@ -39,7 +39,7 @@
         "uuid": "^11.1.0",
         "yaml": "^2.8.1",
         "yargs-parser": "^22.0.0",
-        "zod": "^3.25.75"
+        "zod": "^3.25.76"
       },
       "bin": {
         "m365": "dist/index.js",
@@ -8245,9 +8245,9 @@
       }
     },
     "node_modules/zod": {
-      "version": "3.25.75",
-      "resolved": "https://registry.npmjs.org/zod/-/zod-3.25.75.tgz",
-      "integrity": "sha512-OhpzAmVzabPOL6C3A3gpAifqr9MqihV/Msx3gor2b2kviCgcb+HM9SEOpMWwwNp9MRunWnhtAKUoo0AHhjyPPg==",
+      "version": "3.25.76",
+      "resolved": "https://registry.npmjs.org/zod/-/zod-3.25.76.tgz",
+      "integrity": "sha512-gzUt/qt81nXsFGKIFcC3YnfEAx5NkunCfnDlvuBSSFS02bcXu4Lmea0AFIUwbLWxWPx3d9p8S5QoaujKcNQxcQ==",
       "license": "MIT",
       "funding": {
         "url": "https://github.com/sponsors/colinhacks"
