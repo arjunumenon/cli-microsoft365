@@ -266,7 +266,7 @@
     "adaptivecards": "^3.0.5",
     "adaptivecards-templating": "^2.3.1",
     "adm-zip": "^0.5.16",
-    "applicationinsights": "^3.7.0",
+    "applicationinsights": "^3.9.0",
     "axios": "^1.10.0",
     "chalk": "^5.4.1",
     "clipboardy": "^4.0.0",
